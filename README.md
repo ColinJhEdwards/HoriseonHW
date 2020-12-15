@@ -21,4 +21,6 @@ Changes Made:
 
 .Added a scroll behavior of "Smooth" to the html for smoother transitions when clicking links
 
+.Updated semantics for sections, replacing divs with <header> <section> <nav>, etc.. where necessary
+
 
